@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\TypeIndexers\TypeIndexers\bin\Debug\TypeIndexers.exe.config
+C:\Users\danie\Desktop\TypeIndexers\TypeIndexers\bin\Debug\TypeIndexers.exe
+C:\Users\danie\Desktop\TypeIndexers\TypeIndexers\bin\Debug\TypeIndexers.pdb
+C:\Users\danie\Desktop\TypeIndexers\TypeIndexers\obj\Debug\TypeIndexers.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\TypeIndexers\TypeIndexers\obj\Debug\TypeIndexers.exe
+C:\Users\danie\Desktop\TypeIndexers\TypeIndexers\obj\Debug\TypeIndexers.pdb
